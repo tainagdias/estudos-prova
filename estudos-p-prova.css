@@ -1,0 +1,17 @@
+body{
+    background-color: #a0b3cc;
+    font-family: cambria;
+    color: #00115c;
+}
+
+h1, h3{
+    font-family: cambria;
+}
+
+.caixinha {
+    background-color: rgb(200, 224, 255);
+    border: 2px solid #00115c;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
